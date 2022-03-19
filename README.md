@@ -32,7 +32,7 @@ The view can then be exported to be visualised using the [Structurizr cloud serv
 
 * Introduction
     * [Getting started](docs/getting-started.md)
-    * [About Structurizr and how it compares to other tooling](https://structurizr.com/help/about)
+    * [About Structurizr and how it compares to other tooling]
     * [Why use code?](https://structurizr.com/help/code)
     * [Basic concepts](https://structurizr.com/help/concepts) (workspaces, models, views and documentation)
     * [C4 model](https://c4model.com)
@@ -78,5 +78,5 @@ The view can then be exported to be visualised using the [Structurizr cloud serv
     * [structurizr-dotnet](https://github.com/structurizr/dotnet): Structurizr for .NET
 * [changelog](docs/changelog.md)
 
-[![Build Status](https://travis-ci.org/structurizr/java.svg?branch=master)](https://travis-ci.org/structurizr/java)
+
 
